@@ -28,7 +28,7 @@ This Node.js project retrieves Kepler data from NASA archives, reads and parses 
    cd your-repo
    ```
 
-2. Install dependencies:
+2. Install dependencies:    
     ```
     npm install
     ```
